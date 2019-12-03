@@ -1,3 +1,3 @@
 # Hello-World
 Beginners example
-This control theory and practical examples
+This is about control theory and practical examples
